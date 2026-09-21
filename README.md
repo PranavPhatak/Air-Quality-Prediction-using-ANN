@@ -272,4 +272,4 @@ Python · pandas · NumPy · SciPy · Matplotlib · Seaborn · scikit-learn (`Pi
 
 ---
 
-**Author:** Pranav Phatak · [LinkedIn](https://www.linkedin.com/in/pranavphatak2005/)
+*Built by Pranav — Computer Engineering, NMIMS MPSTME.*
