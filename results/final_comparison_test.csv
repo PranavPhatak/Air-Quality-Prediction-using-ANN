@@ -1,0 +1,7 @@
+,MAE,RMSE,R2,RMSE vs Persistence (%)
+Persistence,11.959,22.1365,0.944,0.0
+Seasonal Naive (24h),67.6714,99.5022,-0.1319,-349.4949
+Seasonal Naive (level-adj.),16.9926,28.3615,0.908,-28.1211
+Seasonal Drift (fitted),11.9552,22.1218,0.9441,0.0664
+XGBoost,12.1311,23.1141,0.9389,-4.4164
+ANN,12.9392,22.4843,0.9422,-1.5711
